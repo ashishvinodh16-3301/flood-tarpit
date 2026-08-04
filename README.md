@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FLOOD — C++ TCP Tarpit
 
 A lightweight, multi-threaded TCP tarpit written in C++. Traps incoming
@@ -30,3 +31,5 @@ or are authorized to test.
 
 ## License
 MIT
+=======
+# flood-tarpit
